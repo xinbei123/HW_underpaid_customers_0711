@@ -84,7 +84,6 @@ def print_payment_status(customer_data_file):
 
   orders.close()
 
-
 print_payment_status('customer-orders.txt')
 
 
